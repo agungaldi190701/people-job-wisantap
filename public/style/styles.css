@@ -1,0 +1,504 @@
+.lobster {
+  font-family: "Lobster Two", cursive;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+#hero .content {
+  margin-top: -100px;
+  background: #192A56;
+}
+
+#hero .container {
+  margin-top: -400px;
+}
+
+#hero .lobster {
+  margin-top: 70px;
+}
+
+.bg-orange {
+  background: #FA8231;
+}
+
+.bg-darkblue {
+  background: #192A56;
+}
+
+.text-darkblue {
+  color: #192A56;
+}
+
+.menu :hover {
+  text-decoration: underline;
+}
+
+.menu :active {
+  text-decoration: underline;
+}
+
+/*==========Login dan Register==========*/
+.lef {
+  padding-right: 55px;
+  padding-left: 50px;
+  left: 62% !important;
+}
+
+.pad-wisantap {
+  padding-top: 33px !important;
+  text-align: center;
+}
+
+.cusfont {
+  margin-bottom: 29px;
+  font-family: "Lobster Two";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  color: #F1F2F6;
+}
+
+.bordernya {
+  background: #192A56;
+  border: 1px solid #F1F2F6;
+  border-radius: 10px;
+}
+
+label {
+  margin-bottom: 39px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  color: #F1F2F6;
+}
+
+.kotak button {
+  margin-bottom: 29px;
+  width: 399px;
+  height: 43px;
+  background: #FA8231;
+  border: 1px solid #FA8231;
+  border-radius: 10px;
+}
+
+.masuk {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  color: #F1F2F6;
+}
+
+.lupapass {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  color: #FA8231;
+}
+
+.regist {
+  margin-top: 63px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #F1F2F6;
+}
+
+.regist a {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  color: #FA8231;
+}
+
+/*==========Tentang Kami==========*/
+.aboutme {
+  width: 1440px;
+  background-repeat: no-repeat;
+  margin-left: 0px;
+}
+
+.paragraf {
+  font-family: "Inter";
+  color: #192A56;
+  font-size: 18px;
+}
+
+.judul {
+  font-family: "Inter";
+  color: #192A56;
+}
+
+.borderaja {
+  background: transparent;
+  border: 2px solid #192A56;
+  border-radius: 10px;
+}
+
+.lef-o {
+  padding-right: 55px;
+  padding-left: 50px;
+  left: 50% !important;
+}
+
+.footerTentangkami {
+  margin-top: 1000px;
+  margin-bottom: -15px;
+  padding-top: -20px;
+  color: #F1F2F6;
+  background-color: #192A56;
+}
+
+/*==========Details==========*/
+.borderDetails {
+  background: #F1F2F6;
+  border: 1px solid #F1F2F6;
+  border-radius: 10px;
+  width: 700px;
+}
+
+.lef-Details {
+  padding-right: 55px;
+  padding-left: 50px;
+  left: 35% !important;
+  margin-top: 200px;
+  margin-left: -80px;
+}
+
+.tentangDestinasi {
+  color: #192A56;
+  margin-left: -22px;
+  padding: 20px;
+  font-size: 25px;
+  padding-bottom: 5px;
+}
+
+.pad-Destinasi {
+  padding-top: 33px !important;
+  -webkit-text-decoration: solid;
+          text-decoration: solid;
+}
+
+.cusfontDestinasi {
+  margin-bottom: 29px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 50px;
+  color: #192A56;
+}
+
+.fotoDestinasi1 {
+  padding-right: 10px;
+}
+
+.harga {
+  color: #192A56;
+  margin-left: -22px;
+  padding: 20px;
+}
+
+.kotakDetails a {
+  padding-top: 8px;
+  padding-left: 20px;
+  margin-bottom: 29px;
+  margin-left: 170px;
+  width: 200px;
+  height: 43px;
+  background: #FA8231;
+  border: 1px solid #FA8231;
+  border-radius: 10px;
+  font-family: "Inter";
+}
+
+.footer {
+  margin-top: 1000px;
+}
+
+/*==========Form Tiket==========*/
+.lobster-form {
+  font-family: "Lobster Two", cursive;
+  color: #192A56;
+  padding-left: 550px;
+}
+
+.pad-form {
+  padding-top: 33px !important;
+  text-align: center;
+}
+
+.cusfont-form {
+  margin-bottom: 29px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  color: #F1F2F6;
+}
+
+.border-form {
+  background: #192A56;
+  border: 1px solid #F1F2F6;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: -180px;
+}
+
+.kotak-form a {
+  margin-top: 15px;
+  padding-left: 16px;
+  padding-top: 8px;
+  margin-bottom: 29px;
+  margin-left: 100px;
+  width: 150px;
+  height: 43px;
+  background: #FA8231;
+  border: 1px solid #FA8231;
+  border-radius: 10px;
+  font-family: "Inter";
+}
+
+.kotak-form .back {
+  color: #FA8231;
+  background-color: #192A56;
+  border: none;
+  text-decoration: underline;
+  margin-left: 130px;
+  margin-top: -1000px;
+}
+
+.footer-form {
+  margin-top: 800px;
+}
+
+/*==========Pembayaran==========*/
+.lobster-pembayaran {
+  font-family: "Lobster Two", cursive;
+  color: #F1F2F6;
+  padding-left: 550px;
+}
+
+.pad-pembayaran {
+  padding-top: 15px !important;
+  text-align: center;
+  background-color: #192A56;
+  width: 600px;
+  height: 80px;
+  border-radius: 10px;
+  margin-left: -51px;
+}
+
+.cusfont-pembayaran {
+  margin-bottom: 29px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  color: #F1F2F6;
+}
+
+.border-pembayaran {
+  background: #F1F2F6;
+  border: 1px solid #192A56;
+  border-radius: 10px;
+  margin-top: 40px;
+  margin-left: -180px;
+  width: 600px;
+}
+
+.form-pembayaran {
+  list-style: none;
+  color: #192A56;
+  margin-left: -30px;
+  font-size: 20px;
+}
+
+.container-button a {
+  background-color: #192A56;
+  border: 1px solid #192A56;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+#kembali {
+  margin-left: 0px;
+}
+
+#lakukan-pembayaran {
+  margin-left: 10px;
+}
+
+.footerPembayaran {
+  margin-top: 650px;
+}
+
+/*==========Transaksi Berhasil==========*/
+.lobster-transaksiBerhasil {
+  font-family: "Lobster Two", cursive;
+  color: #F1F2F6;
+  padding-left: 550px;
+}
+
+.pad-transaksiBerhasil {
+  padding-top: 15px !important;
+  text-align: center;
+  background-color: #192A56;
+  width: 600px;
+  height: 80px;
+  border-radius: 10px;
+  margin-left: -51px;
+}
+
+.cusfont-transaksiBerhasil {
+  margin-bottom: 29px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  color: #F1F2F6;
+}
+
+.border-transaksiBerhasil {
+  background: #F1F2F6;
+  border: 1px solid #192A56;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: -180px;
+  width: 600px;
+}
+
+.form-transaksiBerhasil {
+  list-style: none;
+  color: #192A56;
+  margin-left: -30px;
+  font-size: 20px;
+}
+
+.transaksiBerhasil-button a {
+  background-color: #192A56;
+  border: 1px solid #192A56;
+  margin-bottom: 30px;
+  margin-left: 1000px;
+}
+
+#batalkan {
+  margin-left: 39%;
+  margin-top: 620px;
+}
+
+#lihat-QRCode {
+  margin-left: 10px;
+  margin-top: 620px;
+}
+
+.footer-transaksiBerhasil {
+  margin-top: 50px;
+}
+
+/*==========Tunggu Konfirmasi==========*/
+#tungguKonfirmasi {
+  margin-left: 43%;
+  margin-top: 620px;
+  -webkit-text-decoration: 5px solid;
+          text-decoration: 5px solid;
+  color: #192A56;
+  font-size: 20px;
+  font-family: "Inter";
+}
+
+/*==========Harap Tunggu Konfirmasi==========*/
+.footer-harapTungguKonfirmasi {
+  margin-top: 650px;
+}
+
+/*==========Transaksi dibatalkan==========*/
+.footer-transaksiDibatalkan {
+  margin-top: 650px;
+}
+
+/*==========QR Code==========*/
+.lobster-QRCode {
+  font-family: "Lobster Two", cursive;
+  color: #F1F2F6;
+  padding-left: 550px;
+}
+
+.pad-QRCode {
+  padding-top: 15px !important;
+  text-align: center;
+  background-color: #192A56;
+  width: 800px;
+  height: 80px;
+  border-radius: 10px;
+  margin-left: -51px;
+}
+
+.cusfont-QRCode {
+  margin-bottom: 29px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  color: #F1F2F6;
+}
+
+.border-QRCode {
+  background: #F1F2F6;
+  border: 1px solid #192A56;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: -180px;
+  width: 800px;
+  height: 500px;
+}
+
+.form-QRCode {
+  list-style: none;
+  color: #192A56;
+  margin-left: -30px;
+  font-size: 20px;
+}
+
+.QRCode {
+  margin-top: -320px;
+  margin-left: 460px;
+}
+
+.QRCode-button a {
+  background-color: #192A56;
+  border: 1px solid #192A56;
+  margin-bottom: 30px;
+  margin-left: 1000px;
+}
+
+#QRCode-kembali {
+  margin-left: 47%;
+  margin-top: 650px;
+}
+
+.footer-QRCode {
+  margin-top: 20px;
+}/*# sourceMappingURL=styles.css.map */
